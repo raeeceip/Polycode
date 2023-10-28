@@ -38,5 +38,5 @@
 - Digital Ocean
   
 
-### Our progress will be documented via a series of blog posts, available (here)[https://blog.chiso.dev]
+### Our progress will be documented via a series of blog posts, available [here](https://blog.chiso.dev)
 
